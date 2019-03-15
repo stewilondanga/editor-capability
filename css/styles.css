@@ -51,11 +51,11 @@ td:first-child, th:first-child {
   color: #d0d;
 }
 
-/*.fa:before {
+.fa:before {
   padding: 0 4px;
 }
 
-select {
+/*select {
   margin: 0 4px;
 }
 
