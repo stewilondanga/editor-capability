@@ -30,11 +30,12 @@ th {
   color: #777;
 }
 
-/*td, th {
+td, th {
   padding: 7px 10px;
   border-left: 1px solid #777;
 }
-td:first-child, th:first-child {
+
+/*td:first-child, th:first-child {
   border-left: none;
 }
 
