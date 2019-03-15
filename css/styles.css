@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,63 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: 10px auto;
+  border: 1px solid #777;
+}
+
+code {
+  font-family: consolas, monaco, monospace;
+}
+
+th {
+  color: #777;
+}
+
+td, th {
+  padding: 7px 10px;
+  border-left: 1px solid #777;
+}
+td:first-child, th:first-child {
+  border-left: none;
+}
+
+.section td, th {
+  border-bottom: 1px solid #777;
+}
+
+.html {
+  color: #0bb;
+}
+
+.css {
+  color: #d0d;
+}
+
+.fa:before {
+  padding: 0 4px;
+}
+
+select {
+  margin: 0 4px;
+}
+
+.fa-font:before {
+  border-bottom: 4px solid blue;
+  margin-bottom: -4px;
+  display: block;
+}
+
+.fa + .fa {
+  display: block;
+  margin: -4px 0 -4px;
+  font-size: 0.7em;
 }
 
 .containers {
