@@ -39,11 +39,11 @@ td:first-child, th:first-child {
   border-left: none;
 }
 
-/*.section td, th {
+.section td, th {
   border-bottom: 1px solid #777;
 }
 
-.html {
+/*.html {
   color: #0bb;
 }
 
