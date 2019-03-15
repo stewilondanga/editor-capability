@@ -55,11 +55,11 @@ td:first-child, th:first-child {
   padding: 0 4px;
 }
 
-/*select {
+select {
   margin: 0 4px;
 }
 
-.fa-font:before {
+/*.fa-font:before {
   border-bottom: 4px solid blue;
   margin-bottom: -4px;
   display: block;
