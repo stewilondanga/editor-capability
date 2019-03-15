@@ -65,13 +65,13 @@ select {
   display: block;
 }
 
-/*.fa + .fa {
+.fa+.fa {
   display: block;
   margin: -4px 0 -4px;
   font-size: 0.7em;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
